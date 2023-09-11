@@ -6,6 +6,8 @@ En este repositorio se encuentra, una implementacion del algoritmo de Regresion 
 
 Dentro del archivo etl.ipynb se realizo un EDA sencillo y se probo el modelo, la **implementacion final** del modelo se encuentra dentro del archivo *e2.py*.
 
+Análisis y Reporte sobre el desempeño del modelo se encuentra en el archivo *Análisis_ Reporte_modelo._A01367585.pdf*
+
 ## Requisitos
 
 - numpy==1.24.3
