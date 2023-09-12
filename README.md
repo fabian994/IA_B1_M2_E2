@@ -4,11 +4,11 @@ A01367585 | Fabian Gonzalez Vera
 
 En este repositorio se encuentra, una implementacion del algoritmo de Regresion utilizando Random Forest y el Framework de Machine Learning scikit-learn. El fin del algoritmo es determinar la edad, medida en anillo, de los abalones utilizando sus caracteristicas fisicas.
 
-Dentro del archivo etl.ipynb se realizo un EDA sencillo y se probo el modelo, la **implementacion final** del modelo se encuentra dentro del archivo *e2.py*.
+Dentro del archivo [*etl.ipynb*](https://github.com/fabian994/IA_B1_M2_E2/blob/7c9b874fc577dd7778661eb7d22e8a22cb17b334/etl.ipynb) se realizo un EDA sencillo y se probo el modelo, la **implementacion final** del modelo se encuentra dentro del archivo [*e2.py*](https://github.com/fabian994/IA_B1_M2_E2/blob/7c9b874fc577dd7778661eb7d22e8a22cb17b334/e2.py).
 
-Análisis y Reporte sobre el desempeño del modelo se encuentra en el archivo *Análisis_ Reporte_modelo._A01367585.pdf*
+Análisis y Reporte sobre el desempeño del modelo se encuentra en el archivo [*Análisis_ Reporte_modelo._A01367585.pdf*](https://github.com/fabian994/IA_B1_M2_E2/blob/7c9b874fc577dd7778661eb7d22e8a22cb17b334/An%C3%A1lisis_%20Reporte_modelo._A01367585.pdf)
 
-## Requisitos
+## Requisitos minimos
 
 - numpy==1.24.3
 - pandas==2.0.3

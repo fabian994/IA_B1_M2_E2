@@ -56,8 +56,9 @@ print('\n Mean cross-validated score of the Model with the best parameters: ',gr
 randForestReg = grid_search.best_estimator_ 
 y_preds = randForestReg.predict(test_x)
 
-print("Root Mean Squared Error", mean_squared_error(test_y, y_preds, squared=False))
-print('R2 score',randForestReg.score(test_x,test_y))
+print("Root Mean Squared Error: ", mean_squared_error(test_y, y_preds, squared=False))
+print('R2 score with train data: ',randForestReg.score(train_x,train_y))
+print('R2 score with test data: ',randForestReg.score(test_x,test_y))
 
 print('\n\n--------Calculating Bias & Variance--------\n\n')
 # estimate bias and variance
